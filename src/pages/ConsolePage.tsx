@@ -448,7 +448,7 @@ export function ConsolePage() {
       <div className="content-top">
         <div className="content-title">
           <img src="/openai-logomark.svg" />
-          <span>Realtime RAG Assistant - Prepared By Adam Lucek</span>
+          <span>Realtime RAG Assistant</span>
         </div>
         <div className="content-api-key">
           {!LOCAL_RELAY_SERVER_URL && (
