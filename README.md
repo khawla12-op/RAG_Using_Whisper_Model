@@ -1,3 +1,12 @@
+# RAG Using Whisper Model 🎙️📚
+This project implements a Retrieval-Augmented Generation  system using OpenAI's Whisper model for speech recognition, combined with document processing capabilities. The system can transcribe speech and answer questions using information retrieved from PDF documents about machine learning.
+# Features 🌟
+
+Real-time speech recognition using Whisper model \
+PDF document processing and information extraction \
+Question-answering system using RAG architecture \
+Integration with machine learning knowledge base \
+Interactive user interface for queries 
 # OpenAI Realtime RAG Assistant
 
 This is a fork of [openai-realtime-console](https://github.com/openai/openai-realtime-console) adapted to demonstrate voice based RAG assistants using their [realtime api](https://github.com/openai/openai-realtime-api-beta). All credit to the OpenAI team for putting together the majority of this. Please refer to their original repo for more detailed information on how the backend works.
